@@ -22,7 +22,7 @@ body {
 .cabeçalho__menu-hamburguer {
     width: 24px;
     height: 24px;
-    background-image: url("../img/Menu.svg");
+    background-image: url("../img/Menu Aberto.svg");
     background-repeat: no-repeat;
     background-position: center;
     display: inline-block;
